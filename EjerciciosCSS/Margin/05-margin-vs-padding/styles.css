@@ -1,0 +1,14 @@
+body {
+  background: #fafafa;
+  padding: 20px;
+}
+.card {
+  background: #fff;
+  border: 1px solid #ddd;
+
+  /* espacio interno*/
+  padding: 30px;
+
+  /* separación externa entre tarjetas*/
+  margin-bottom: 24px;
+}
