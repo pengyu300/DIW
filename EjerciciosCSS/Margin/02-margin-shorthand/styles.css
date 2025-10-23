@@ -1,0 +1,22 @@
+.box {
+  width: 120px;
+  height: 50px;
+  background: #cde;
+  display: grid;
+  place-items: center;
+  border: 1px solid #9ab;
+}
+
+.one {
+  margin: 20px 40px;
+}
+
+/* top, right/left, bottom*/
+.two {
+  margin: 10px 30px 50px;
+}
+
+/* arriba, derecha, abajo, izquierda*/
+.three {
+  margin: 5px 15px 25px 35px;
+}
