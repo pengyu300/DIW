@@ -1,0 +1,16 @@
+body {
+  max-width: 60ch;
+  margin: 40px auto;
+  line-height: 1.5;
+
+  /* Rompe el coplaso de márgenes certicales*/
+  padding: 1px 0;
+}
+.p1 {
+  margin-bottom: 30px;
+  background: #eef;
+}
+.p2 {
+  margin-top: 40px;
+  background: #efe;
+}
