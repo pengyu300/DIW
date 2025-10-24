@@ -1,0 +1,15 @@
+.box {
+  background:#e0f2fe; 
+  padding: 20px;  /*espacio interno entre el borde y el contenido*/
+  border: 5px solid #3db1eb;  /*borde visible*/
+  margin: 16px; /*espacio externo entre cajas*/
+}
+
+.content {
+  background:#fff; /* representa el área de contenido */
+  text-align: center;
+}
+
+.nota { 
+  font-family: system-ui, sans-serif; 
+}
