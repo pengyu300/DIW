@@ -1,0 +1,17 @@
+.hero { 
+    background:#eef2ff; 
+    border:1px solid #c7d2fe; 
+    padding: 8px;
+}
+
+@media (min-width: 640px) {
+    .hero {
+        padding: 24px;
+    }
+}
+
+@media(min-width: 1024px){
+    .hero {
+        padding: 48px;
+    }
+}
