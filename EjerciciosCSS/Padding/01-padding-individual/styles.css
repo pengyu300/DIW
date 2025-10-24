@@ -1,0 +1,16 @@
+body { 
+  font-family: system-ui, sans-serif; 
+}
+
+.box { 
+  display:inline-block; 
+  background:#e0f2fe; 
+  margin:8px; 
+  border:1px solid #93c5fd; 
+}
+
+.box.uno,
+.box.dos,
+.box.tres {
+  padding: 20px 10px 30px 15px; /* top right bottom left */
+}
