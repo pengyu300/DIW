@@ -1,0 +1,23 @@
+.btn { 
+    background:#1f2937; 
+    color:#fff; 
+    border:0; 
+    border-radius:8px;  
+}
+
+/* Tamaños mediante padding*/
+.btn.sm {
+     /* pequeño: altura 6px arriba/abajo, ancho 12px izq/der */
+    padding: 6px 12px;
+    font-size: 14px;
+}
+
+.btn.md {
+    padding: 10px 20px; /* mediano*/
+    font-size: 16px;
+}
+
+.btn.lg {
+    padding: 14px 28px; /*grande*/
+    font-size: 18px;
+}
